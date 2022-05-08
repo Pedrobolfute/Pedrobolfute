@@ -1,14 +1,14 @@
 # ****🐱‍💻 Hey there! I'm using GitHub.****
 <div style="display: inline_block"><br>
  
-  <img align="right" alt="Pedro-pic" height="150" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="right" alt="Pedro-pic" height="200" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 
 </div>
 
-## ✌🏾 E ai, tudo em riba?
-### Sou Pedro. Sou de Minas Gerais, Uai! Mas estudo ✍🏾Licenciatura em Ciências da Computação no Instituto Federal de Educação, Ciência e Tecnologia Baiano (IFBaiano) no campus de Senhor do Bonfim - BA, 2020/1. Portanto, Oxi, estou na Bahia! Finalizei no início deste ano meu EAD em Segurança da Informação na Universidade Católica de Brasília, 2019/3. Agora tenho mais free time to codar what I want. Curto muito bulinar em diferentes Sistemas Operacionais, então achei o ✨Parrot. 🤌🏾Demais! Um S.O baseado no Debian, voltado pra segurança e 🤫🤫 "arqui-inimigo" do Kali! 😂
-#
-### 👨🏾‍💻 Estou startando a codar, então achei esse acervo de codes.
+  ## ✌🏾 E ai, tudo em riba?
+  ### Sou Pedro. Sou de Minas Gerais, Uai! Mas estudo ✍🏾Licenciatura em Ciências da Computação no Instituto Federal de Educação, Ciência e Tecnologia Baiano (IFBaiano) no campus de Senhor do Bonfim - BA, 2020/1. Portanto, Oxi, estou na Bahia! Finalizei no início deste ano meu EAD em Segurança da Informação na Universidade Católica de Brasília, 2019/3. Agora tenho mais free time to codar what I want. Curto muito bulinar em diferentes Sistemas Operacionais, então achei o ✨Parrot. 🤌🏾Demais! Um S.O baseado no Debian, voltado pra segurança e 🤫🤫 "arqui-inimigo" do Kali! 😂
+  #
+  ### 👨🏾‍💻 Estou startando a codar, então achei esse acervo de codes.
 
 <div>
 
@@ -24,15 +24,24 @@
 ### ***Simbora, uai!***
 
 <div>
-  <a href="https://www.youtube.com/channel/UCKahbqxT42vVKepTWOe_NuA/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/user/Pedrobolfute/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white"
-  target="_blank"></a>
-  <a href="https://discord.gg/KU4YNdBBv6" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target= "_blank"></a>
-  <a href="https://www.instagram.com/pedrobolfute/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-henrique-s-724331131/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-  <a href= "http://www.diarionfoot.wordpress.com" target="_blank">
-    <img align="center" alt="Pedro-diario" height="200" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
+  <a href="https://www.youtube.com/channel/UCKahbqxT42vVKepTWOe_NuA/featured" target="_blank">
+    <img src="https://img.shields.io/badge/ YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
   </a>
-
+  <a href="https://www.youtube.com/user/Pedrobolfute/videos" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white"
+  target="_blank">
+  </a>
+  <a href="https://discord.gg/KU4YNdBBv6" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target= "_blank">
+  </a>
+  <a href="https://www.instagram.com/pedrobolfute/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/pedro-henrique-s-724331131/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href= "http://www.diarionfoot.wordpress.com" target="_blank">
+    <img align="right" alt="Pedro-diario" height="200" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
+  </a>
+  
 </div>
