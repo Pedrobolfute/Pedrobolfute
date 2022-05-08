@@ -1,7 +1,7 @@
 # ****🐱‍💻 Hey there! I'm using GitHub.****
 <div style="display: inline_block"><br>
  
-  <img align="right" alt="Pedro-pic" height="200" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="right" alt="Pedro-pic" height="150" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 
 </div>
 
