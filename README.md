@@ -24,23 +24,23 @@
 ### ***Simbora, uai!***
 
 <div>
-  <a href="https://www.youtube.com/channel/UCKahbqxT42vVKepTWOe_NuA/featured" target="_blank">
+  <a target="_blank" href="https://www.youtube.com/channel/UCKahbqxT42vVKepTWOe_NuA/featured">
     <img src="https://img.shields.io/badge/ YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.youtube.com/user/Pedrobolfute/videos" target="_blank">
+  <a target="_blank" href="https://www.youtube.com/user/Pedrobolfute/videos">
     <img src="https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white"
   target="_blank">
   </a>
-  <a href="https://discord.gg/KU4YNdBBv6" target="_blank">
+  <a target="_blank" href="https://discord.gg/KU4YNdBBv6">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target= "_blank">
   </a>
-  <a href="https://www.instagram.com/pedrobolfute/" target="_blank">
+  <a target="_blank" href="https://www.instagram.com/pedrobolfute/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/pedro-henrique-s-724331131/" target="_blank">
+  <a target="_blank" href="https://www.linkedin.com/in/pedro-henrique-s-724331131/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href= "http://www.diarionfoot.wordpress.com" target="_blank">
+  <a target="_blank" href= "http://www.diarionfoot.wordpress.com">
     <img align="right" alt="Pedro-diario" height="200" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
   </a>
   
