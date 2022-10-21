@@ -44,4 +44,6 @@
     <img align="right" alt="Pedro-diario" height="200" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
   </a>
   
+    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
