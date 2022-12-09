@@ -54,14 +54,4 @@
   <div>
     <a target="_blank" href="https://www.linkedin.com/in/pedro-henrique-s-724331131/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-<<<<<<< HEAD
-    </a>
-  </div>
-=======
-  </a>
-  <a target="_blank" href= "http://www.diarionfoot.wordpress.com">
-    <img align="right" alt="Pedro-diario" height="200" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
-  </a>
-    
->>>>>>> fdf18add5003b0e518acaf70b4599011ba910c99
 </div>
